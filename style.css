@@ -77,13 +77,15 @@ a:hover {
   }
   
   figure img {
+    height: 250px;
+    width: 350px;
     max-width: 100%;
      grid-row: auto;
     grid-column: auto;
   }
   
   table {
-    width: 100%;
+    width: 70%;
     border-collapse: collapse;
   }
   
